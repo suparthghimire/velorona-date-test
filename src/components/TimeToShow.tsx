@@ -1,4 +1,3 @@
-import React from "react";
 import { T_Timezone } from "../data/data";
 import moment from "moment-timezone";
 interface TimeToShowProps {

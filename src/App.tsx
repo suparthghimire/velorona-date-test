@@ -1,7 +1,7 @@
 import { useState } from "react";
 import TimeToSend from "./components/TimeToSend";
 import TimeCalculation from "./components/TimeCalculation";
-import { AVAILABLE_TIMEZOMES, T_Timezone } from "./data/data";
+import { T_Timezone } from "./data/data";
 import TimezoneInput from "./components/TimezoneInput";
 import TimeToShow from "./components/TimeToShow";
 
